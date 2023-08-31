@@ -1,0 +1,11 @@
+{
+  "name": "oslg",
+  "version": "1.0.0",
+  "description": "open source license generator for your project",
+  "main": "src/generate-license.cjs",
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "oslg": "src/generate-license.cjs"
+  }
+}
